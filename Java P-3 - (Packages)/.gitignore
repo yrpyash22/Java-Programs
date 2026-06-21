@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+
+# VS Code temporary file
+tempCodeRunnerFile.java
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build folders
+out/
+build/
+
+# Logs
+*.log
