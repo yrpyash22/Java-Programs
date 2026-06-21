@@ -7,6 +7,7 @@ Make sure you have:
 * Java JDK 8 or later
 * MySQL Server
 * MySQL Connector/J (JDBC Driver)
+* mysql-connector-j-9.5.0.jar
 
 ### 2. Create Database
 
